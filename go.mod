@@ -1,4 +1,4 @@
-module giithub.com/RAshkettle/malcolm
+module github.com/RAshkettle/malcolm
 
 go 1.24.4
 
